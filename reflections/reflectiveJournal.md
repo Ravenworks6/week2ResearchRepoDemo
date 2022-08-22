@@ -11,7 +11,8 @@ Scratch promotes computational thinking and problem solving skills; creative tea
 Visual programming is a programming language which allows the user to create a program using visual blocks.
 
 ### What are some programming principles that you have discovered?
-KISS
+KISS - Keep It Simple Stupid
+
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 
