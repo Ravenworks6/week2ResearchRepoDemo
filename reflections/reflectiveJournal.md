@@ -15,6 +15,7 @@ KISS - Keep It Simple Stupid
 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
+Project in development
 https://scratch.mit.edu/projects/722777555
 
 ## Week 2:
