@@ -3,15 +3,15 @@
 ## Week 1:
 
 ### What is Scratch?
-Scratch is the world’s largest coding community for children and a coding language with a simple visual interface that allows young people to create digital stories, games, and animations. Scratch is designed, developed, and moderated by the Scratch Foundation, a nonprofit organization.
+Scratch is a free coding community developed by MIT. Mostly used by children for learning coding language using a simple visual interface it allows users to create digital stories, games, and animations.
 
 Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
 
-Scratch is always free and is available in more than 70 languages.
-
 ### What is visual programming?
+Visual programming is a programming language which allows the user to create a program using visual blocks.
 
 ### What are some programming principles that you have discovered?
+KISS
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 
