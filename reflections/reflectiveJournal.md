@@ -12,6 +12,7 @@ Visual programming is a programming language which allows the user to create a p
 
 ### What are some programming principles that you have discovered?
 KISS - Keep It Simple Stupid
+KILL - Keep It Logical Lunatic
 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
