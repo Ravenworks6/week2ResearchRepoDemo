@@ -30,5 +30,6 @@ Thursday - We videoed each other on our phones and put them together in a line o
 
 ## Week 4:
 Monday - Today Roman has us in a circle where we had to tell the group our name and what we did in the weekend and our project idea.  Unfortunately my PTSD of public speaking kicked in and all I could hear was my heart beating really fast in my head and wanting to run before it was my turn.  Probably lucky I was second so I had no time to run away.  I think I did ok.  Had no idea what I was saying cause all I could hear was my heart pounding and pretty glad it was over very quickly before I passed out. PTSD aside it was a effective way of listening and contributing.
+
 Thursday - Today we had a tower challenge to build the tallest tower out of 20 spagetti sticks, 1m string, 1m tape and a marshmallow.  We split into groups. (So happy no public speaking!) I changed out of my usual group and joined a group needing another person but really glad that I did as we won the challenge (in our class) It was great colaborating with a group out of my age zone. So much smarter then I. Things I became aware of was Keep It Simple, Be Aware of Time to Completion, Build from the Top Down and Colaborating with People outside your comfort zone.
 
