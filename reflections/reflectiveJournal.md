@@ -19,13 +19,14 @@ Project in development
 https://scratch.mit.edu/projects/722777555
 
 ## Week 2:
-Started late have no idea as to what Im doing but just faking it until I make it. Finding Roman's teaching method very refreshing and thought provoking.  Ive never come across this approach but it is waking my lockdown brain up.
+Started late have no idea as to what Im doing but just faking it until I make it.
 
 ### What is git?
 
 ### What is GitHub?
 
 ## Week 3:
+Thursday - We videoed each other on our phones and put them together in a line on the floor and pressed play.  Blockchain learning? Finding Roman's teaching method very refreshing and thought provoking.  Ive never come across this approach but it is waking my lockdown brain up.
 
 ## Week 4:
 Monday - Today Roman has us in a circle where we had to tell the group our name and what we did in the weekend and our project idea.  Unfortunately my PTSD of public speaking kicked in and all I could hear was my heart beating really fast in my head and wanting to run before it was my turn.  Probably lucky I was second so I had no time to run away.  I think I did ok.  Had no idea what I was saying cause all I could hear was my heart pounding and pretty glad it was over very quickly before I passed out. PTSD aside it was a effective way of listening and contributing.
