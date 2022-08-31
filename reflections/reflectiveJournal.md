@@ -26,7 +26,7 @@ Started late have no idea as to what Im doing but just faking it until I make it
 ### What is GitHub?
 
 ## Week 3:
-Thursday - We videoed each other on our phones and put them together in a line on the floor and pressed play.  Blockchain learning? Finding Roman's teaching method very refreshing and thought provoking.
+Thursday - Video-graph. We videoed each other on our phones and put them together in a line on the floor and pressed play.  Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
 ## Week 4:
 Monday - Today Roman has us in a circle where we had to tell the group our name and what we did in the weekend and our project idea.  The Agile Standup Method.  It was a effective way of listening and contributing.
