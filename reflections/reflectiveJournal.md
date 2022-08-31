@@ -19,7 +19,7 @@ Project in development
 https://scratch.mit.edu/projects/722777555
 
 ## Week 2:
-Started late have no idea as to what Im doing but just faking it until I make it.
+Started Python.
 
 ### What is git?
 
