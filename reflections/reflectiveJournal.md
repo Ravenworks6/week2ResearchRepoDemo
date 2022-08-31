@@ -33,3 +33,5 @@ Monday - Today Roman has us in a circle where we had to tell the group our name 
 
 Thursday - Exercise teaching important lessons about software development process and prototyping. Today we had a tower challenge to build the tallest tower out of 20 spagetti sticks, 1m string, 1m tape and a marshmallow.  We split into groups. I changed out of my usual group and joined a group needing another person but really glad that I did as we won the challenge (in our class) It was great colaborating with a group out of my age zone. Things I became aware of was Keep It Simple, Be Aware of Time to Completion, Build from the Top Down and Choose your team carefully (haha). 
 
+## Week 5:
+Monday - All about the Koans.
