@@ -35,7 +35,7 @@ https://github.com/Ravenworks6/week2ResearchRepoDemo/blob/2a90b010dd1c5480835b83
 Thursday - Video-graph. We videoed each other on our phones and put them together in a line on the floor and pressed play.  Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
 ## Second code entry
-Dogs age - I googled this one as I hadnt even started learning python let alone write a program.  The youtube video I watched on this was too complex for being a simple equation so I ended up cobbling it together instinctively.  It did not work so I had some help with another student who helped me define 
+Dogs age - I googled this one as I hadnt even started learning python let alone write a program.  The youtube video I watched on this was too complex for being a simple equation so I ended up cobbling it together instinctively.  It did not work so I had some help with another student who helped me define the float and fix the calculation to subtract 2 from the dogs age.
 https://github.com/Ravenworks6/week2ResearchRepoDemo/blob/eeb6c7ad45034a9cd4538364a43866067926f2b3/code/python/dogsage.py
 
 ## Week 4:
