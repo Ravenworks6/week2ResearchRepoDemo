@@ -34,6 +34,10 @@ https://github.com/Ravenworks6/week2ResearchRepoDemo/blob/2a90b010dd1c5480835b83
 ## Week 3:
 Thursday - Video-graph. We videoed each other on our phones and put them together in a line on the floor and pressed play.  Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
+## Second code entry
+Dogs age
+code/python/dogsage.py
+
 ## Week 4:
 Monday - Today Roman has us in a circle where we had to tell the group our name and what we did in the weekend and our project idea.  The Agile Standup Method.  It was a effective way of listening and contributing.
 
