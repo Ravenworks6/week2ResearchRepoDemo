@@ -27,7 +27,7 @@ Git is a version control system that lets you manage and keep track of your sour
 ### What is GitHub?
  GitHub is a cloud-based hosting service that lets you manage Git repositories.
  
-# First code entry
+## First code entry
 
  
 ## Week 3:
