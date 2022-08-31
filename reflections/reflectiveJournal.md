@@ -22,9 +22,11 @@ https://scratch.mit.edu/projects/722777555
 Started Python.
 
 ### What is git?
+Git is a version control system that lets you manage and keep track of your source code history.
 
 ### What is GitHub?
-
+ GitHub is a cloud-based hosting service that lets you manage Git repositories.
+ 
 ## Week 3:
 Thursday - Video-graph. We videoed each other on our phones and put them together in a line on the floor and pressed play.  Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
