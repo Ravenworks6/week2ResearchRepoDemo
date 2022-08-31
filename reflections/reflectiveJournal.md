@@ -28,6 +28,7 @@ Git is a version control system that lets you manage and keep track of your sour
  GitHub is a cloud-based hosting service that lets you manage Git repositories.
  
 ## First code entry
+Hello World
 https://github.com/Ravenworks6/week2ResearchRepoDemo/blob/2a90b010dd1c5480835b838cecc8a3fdc90ddf87/code/python/helloworld.py
 
 ## Week 3:
