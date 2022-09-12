@@ -45,3 +45,9 @@ Thursday - Exercise teaching important lessons about software development proces
 
 ## Week 5:
 Monday - All about the Koans.
+
+## Week 6:
+Submitting the IT Assignment on Networking this week so have little time to do development but have lots of ideas.  Recycling Website, On Screen Keyboard and Virtual Keyboard for my super secret Keyboard project which I may not submit but still work on as a side project.  Bit ambitious but that's me flying before I can walk. Watch this space!
+
+## Week 7:
+IT assignment submitted learnt so much and realised that my tech knowledge is so old! Its like dial-up when everybody is fibre! Learnt some Figma to create the recycling website and got most of it done in the weekend but oh gosh the content took the longest to make up. Designed on the fly and did no pen to paper because of my time restrictions.  Feels like Im back in the design studio with time allocation being near nothing.  I feel like a traitor to my Adobe programs tho.  Haven't been able to use them for anything in coding or mockups but it's good to learn new things and break the 0 trust barrier...I think.  The software project is due this week and have been enjoying collaborating with others.
